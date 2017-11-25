@@ -1,0 +1,17 @@
+#page1 {
+    background: url(1.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 90vh;
+}
+
+#page2 {
+    background: url(2.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 90vh;
+}
+
+#page3 {
+    background: url(3.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 90vh;
+}
